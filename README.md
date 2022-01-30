@@ -63,6 +63,10 @@ password 欄位必須是 test。接著繼續新增至少 4 筆隨意的資料。
 
 
 1. 使用 SELECT 搭配 JOIN 語法，取得所有留言，結果須包含留言者會員的姓名。
+語法:
+mysql> SELECT message.content,member.username
+    -> FROM message INNER JOIN member
+    -> ON message.member_id=member.id;
 ![image](https://user-images.githubusercontent.com/8243103/151700281-53f279f0-7e32-4eb5-9de3-864c0e33f59d.png)
 
 
