@@ -73,6 +73,8 @@ mysql> SELECT message.content,member.username
 
 2. 使用 SELECT 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有
 留言，資料中須包含留言者會員的姓名。
-![image](https://user-images.githubusercontent.com/8243103/151700289-5f9ca044-6065-4300-b1ec-40ea400f5766.png)
+
+![image](https://user-images.githubusercontent.com/8243103/151700594-a9657ff7-3362-44c5-b58b-8421eebbf886.png)
+
 
 
