@@ -22,6 +22,7 @@ password 欄位必須是 test。接著繼續新增至少 4 筆隨意的資料。
 改成 test2
 
 ###要求四：SQL Aggregate Functions
+
 1.取得 member 資料表中，總共有幾筆資料 ( 幾位會員 )
 2.取得 member 資料表中，所有會員 follower_count 欄位的總和。
 3.取得 member 資料表中，所有會員 follower_count 欄位的平均數。
