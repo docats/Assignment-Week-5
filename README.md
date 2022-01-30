@@ -5,6 +5,7 @@ MySql week5 homwork
 
 1.使用 INSERT 指令新增一筆資料到 member 資料表中，這筆資料的 username 和
 password 欄位必須是 test。接著繼續新增至少 4 筆隨意的資料。
+
 ![image](https://user-images.githubusercontent.com/8243103/151700141-095af964-29e7-4942-b0ac-91bf0a3df897.png)
 ![image](https://user-images.githubusercontent.com/8243103/151700149-510c7aaa-e52f-42ab-a509-168d462067c4.png)
 
