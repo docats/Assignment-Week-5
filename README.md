@@ -24,12 +24,16 @@ password 欄位必須是 test。接著繼續新增至少 4 筆隨意的資料。
 ###要求四：SQL Aggregate Functions
 
 1.取得 member 資料表中，總共有幾筆資料 ( 幾位會員 )
+
 2.取得 member 資料表中，所有會員 follower_count 欄位的總和。
+
 3.取得 member 資料表中，所有會員 follower_count 欄位的平均數。
 
 ###要求五：SQL JOIN (Optional)
 ![1643546283437](https://user-images.githubusercontent.com/8243103/151699958-13723f4d-4f91-430c-8f96-60b8dbe8ae8a.jpg)
 
+
 1. 使用 SELECT 搭配 JOIN 語法，取得所有留言，結果須包含留言者會員的姓名。
+
 2. 使用 SELECT 搭配 JOIN 語法，取得 member 資料表中欄位 username 是 test 的所有
 留言，資料中須包含留言者會員的姓名。
