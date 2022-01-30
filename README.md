@@ -20,14 +20,17 @@ password 欄位必須是 test。接著繼續新增至少 4 筆隨意的資料。
 
 4.使用 SELECT 指令取得 member 資料表中第 2 ~ 4 共三筆資料，並按照 time 欄位，
 由近到遠排序。( 並非編號 2、3、4 的資料，而是排序後的第 2 ~ 4 筆資料 )
+
 ![image](https://user-images.githubusercontent.com/8243103/151700207-a76aa565-6e8f-4d56-9538-0e853ff7c8dc.png)
 
 
 5.使用 SELECT 指令取得欄位 username 是 test 的會員資料。
+
 ![image](https://user-images.githubusercontent.com/8243103/151700224-dca378db-1b54-4cb5-8b39-16b51de61705.png)
 
 
 6.使用 SELECT 指令取得欄位 username 是 test、且欄位 password 也是 test 的資料。
+
 ![image](https://user-images.githubusercontent.com/8243103/151700237-cea97ea1-ae2c-4304-929c-478d8f7c46f4.png)
 
 
