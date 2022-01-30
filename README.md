@@ -33,6 +33,7 @@ password 欄位必須是 test。接著繼續新增至少 4 筆隨意的資料。
 
 7.使用 UPDATE 指令更新欄位 username 是 test 的會員資料，將資料中的 name 欄位
 改成 test2
+
 ![image](https://user-images.githubusercontent.com/8243103/151700244-d5168575-f9e8-4791-8345-aa584828a0a0.png)
 
 
